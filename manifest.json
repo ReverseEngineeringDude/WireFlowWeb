@@ -1,11 +1,11 @@
 {
-    "name": "vdtk",
-    "short_name": "vdtk",
+    "name": "WireFlow",
+    "short_name": "WireFlow",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "DCF WireFlow Application",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
